@@ -1,3 +1,3 @@
-# Database Management Systems
+# DBMS Notes
 
-This folder contains notes and revision material for DBMS
+This folder contains notes and revision material for Database Management Systems
