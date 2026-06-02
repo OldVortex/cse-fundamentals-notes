@@ -1,1 +1,1 @@
-# gate-cse-notes
+# cse-fundamentals-notes
